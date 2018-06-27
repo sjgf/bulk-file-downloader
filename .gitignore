@@ -17,6 +17,9 @@
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
+#Mac
+**/.DS_Store
+
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
@@ -50,3 +53,11 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+#
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+BulkFileDownloaderList.txt
+BulkFileDownloaderList.txt.backup
+target/
